@@ -1,27 +1,9 @@
----
-title: ExpressJs server
-description: A simple ExpressJS server
-tags:
-  - http
-  - nodejs
-  - express
-  - javascript
-  - json
----
+# 3fenizz_ Portfolyo
 
-# NodeJS Express Example
+Node.js Express kullanarak yazdığım kişisel web siteme şuradan ulaşabilirsiniz: [3fenizz_](https://3fenizz.up.railway.app/)
 
-This example starts an [Express JS](https://expressjs.com/) server.
+## 📝 Önemli
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/FZLQ6q?referralCode=ySCnWl)
-
-## 💁‍♀️ How to use locally
-
-- Install dependencies `npm install`
-- Start the development server `npm run dev`
-
-## 📝 Notes
-
-The server started returns a plaintext message for the `/` route and a json message for the `/json` route.
-
-The server code is located in `index.js`.
+Kişisel web sitemdeki tasarımların izinsiz kullanımı sonucunda sıkıntılar yaşayabiliriz. Lütfen iletişime geçmek için bana Instagramdan veya mailden ulaşın.
+[3fenizz Instagram](https://instagram.com/3fenizz_)
+Mail  Adresim: 3fenizz@gmail.com
